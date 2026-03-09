@@ -12,8 +12,7 @@ Keywords: Imaging genomics; Multi-omics integration; Alzheimer’s disease; Bicl
 
 ## Descriptions
 
-The `simulation` folder contains files for reproducing the simulation studies:
-The `BRIDGE` folder: Files implementing the proposed method (BRIDGE) 
+Here contains files for reproducing the simulation studies:
 - `SW function.R`: functions to generate small-world network
 - `functions.R`: functions required for multivariate sparse regression (theta estimation) and module identification
 - `example.R`: example usage
