@@ -6,7 +6,11 @@ Keywords:Imaging genomics; Gene expression; High-Dimensional Feature Selection; 
 ## Descriptions
 
 The `Simulation` folder contains files for implementing the **proposed method (BRIDGE)** :
+
 -`SW function.R`: functions for generating small-world networks
+
 -`bridge_functions.R`: core functions for imaging data generation, multivariate sparse regression, module identification, module-wise PCA, and BRIDGE classification
+
 -`Evaluation_functions`.R: functions for evaluating classification, feature selection, and module recovery, and for generating result plots
+
 -`example.R`: example usage
